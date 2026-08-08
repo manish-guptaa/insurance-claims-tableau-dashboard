@@ -8,4 +8,4 @@ Interactive data visualization project analyzing car insurance claims and presen
 
 ## Project Overview
 
-This data visualization project analyzes 7,647 car insurance records across 21 customer, vehicle, and claims-related variables. The analysis explores patterns associated with claim frequency and claim amount and presents the findings through an interactive Tableau Story for management-level decision support.
+This data visualization project analyzes 7,647 car insurance records across 21 customer, vehicle & claims-related variables. The analysis explores patterns associated with claim frequency & claim amount & presents the findings through an interactive Tableau Story for management-level decision support.
