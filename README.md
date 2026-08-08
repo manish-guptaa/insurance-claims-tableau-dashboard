@@ -13,3 +13,10 @@ This data visualization project analyzes 7,647 car insurance records across 21 c
 ## Tools & Technologies
 
 `Tableau` · `Microsoft Excel` · `Data Visualization` · `Dashboard Design` · `Insurance Analytics`
+
+## Analysis Coverage
+
+- Analyzed claim frequency across income, occupation & customer segments
+- Examined claim amount & magnitude across vehicle age, car type & vehicle value
+- Explored claim patterns by education, gender, marital status & urban/rural profile
+- Consolidated findings through executive summary, claims summary & exploratory analysis dashboards
