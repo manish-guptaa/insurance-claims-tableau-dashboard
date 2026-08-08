@@ -28,3 +28,7 @@ This data visualization project analyzes 7,647 car insurance records across 21 c
 - Private-use vehicles accounted for 61% of claims compared with 39% for commercial-use vehicles.
 - Female claimants represented 57% of claims compared with 43% for male claimants.
 - Claims were higher among urban customers & were concentrated strongly in vehicles within the first two years of ownership.
+
+## Data & Files
+
+The source dataset & supporting reference materials are not redistributed in this repository. The completed interactive analysis is available through the Tableau Public link above.
