@@ -32,3 +32,10 @@ This data visualization project analyzes 7,647 car insurance records across 21 c
 ## Data & Files
 
 The source dataset & supporting reference materials are not redistributed in this repository. The completed interactive analysis is available through the Tableau Public link above.
+
+## Featured Projects
+
+### 📊 Insurance Claims Analytics Dashboard — Tableau
+Interactive analysis of 7,647 car insurance records covering claim frequency, claim amount, customer segments & vehicle characteristics.
+
+🔗 [View Project Repository](https://github.com/manish-guptaa/insurance-claims-tableau-dashboard)
