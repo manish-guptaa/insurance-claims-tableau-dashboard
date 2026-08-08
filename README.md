@@ -20,3 +20,11 @@ This data visualization project analyzes 7,647 car insurance records across 21 c
 - Examined claim amount & magnitude across vehicle age, car type & vehicle value
 - Explored claim patterns by education, gender, marital status & urban/rural profile
 - Consolidated findings through executive summary, claims summary & exploratory analysis dashboards
+
+## Key Insights
+
+- More than 50% of claims (4,271) were below $2,000, while 4,715 claimants had claimed insurance only once.
+- SUV and Minivan owners together contributed approximately 53% of claims.
+- Private-use vehicles accounted for 61% of claims compared with 39% for commercial-use vehicles.
+- Female claimants represented 57% of claims compared with 43% for male claimants.
+- Claims were higher among urban customers & were concentrated strongly in vehicles within the first two years of ownership.
